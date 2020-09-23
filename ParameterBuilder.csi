@@ -1,0 +1,13 @@
+[History]
+B0=ParamBuilder/frmParameterBuilder/CmdBuildParams_Click
+B1=ParamBuilder/frmParameterBuilder/TranslateDirection
+B2=ParamBuilder/frmParameterBuilder/TranslateType
+B3=ParamBuilder/Global
+B4=ParamBuilder/frmParameterBuilder/cmdGetSproc_Click
+B5=ParamBuilder/frmParameterBuilder/cmdNote_Click
+B6=ParamBuilder/frmParameterBuilder/Form_Load
+B7=ParamBuilder/frmParameterBuilder
+B8=ParamBuilder/frmParameterBuilder/cmdExit_Click
+B9=ParamBuilder/frmParameterBuilder/GetSprocNames
+B10=ParamBuilder/Utility/SC
+B11=ParamBuilder/Utility
